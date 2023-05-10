@@ -1,1 +1,1 @@
-# 50Projects-50Days
+This repository contains 50 basic web development projects for practicing HTML, CSS, and JavaScript concepts. All of the projects in this repository were originally created by Brad Traversy.
